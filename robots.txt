@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.dashlamearthmoving.co.za/sitemap.xml

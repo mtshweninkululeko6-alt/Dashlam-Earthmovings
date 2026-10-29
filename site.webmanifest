@@ -1,0 +1,17 @@
+{
+  "name": "Dashlam Earthmoving",
+  "short_name": "Dashlam",
+  "description": "Earthmoving equipment maintenance, repair, parts supply and support for mining and industrial operations in South Africa.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
